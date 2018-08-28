@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.xrj.opengl.support">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
